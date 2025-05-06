@@ -1,4 +1,6 @@
 # PersonApi
+Person CRUD for Elixir Learning.
+
 
 To start your Phoenix server:
 
